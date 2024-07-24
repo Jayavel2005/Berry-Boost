@@ -55,7 +55,7 @@ header{
     border: none;
     background-color: #cc00ff !important;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.755);
-    color: azure !important;
+    color: rgb(0, 255, 255) !important;
     transition: 0.5s;
 }
 .button-container button:active{
